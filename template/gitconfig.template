@@ -1,0 +1,12 @@
+[core]
+  repositoryformatversion = 0
+  filemode = true
+  bare = false
+  logallrefupdates = true
+  symlinks = false
+  ignorecase = false
+  eol = native
+  autocrlf = input
+  safecrlf = warn
+  compression = 9
+  whitespace = trailing-space,space-before-tab,tab-in-indent,tabwidth=4
