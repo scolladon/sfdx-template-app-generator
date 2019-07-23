@@ -1,0 +1,23 @@
+{
+  "name": "sfdx-ci-boilerplate",
+  "version": "1.0.0",
+  "description": "Project Starter Pack",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcherfaoui/sfdx-BitbucketPipeline.git"
+  },
+  "keywords": [
+    "sfdx",
+    "ci",
+    "boilerplate"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcherfaoui/sfdx-BitbucketPipeline/issues"
+  },
+  "homepage": "https://github.com/mcherfaoui/sfdx-BitbucketPipeline#readme"
+}
