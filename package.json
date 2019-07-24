@@ -12,7 +12,8 @@
   "keywords": [
     "sfdx",
     "ci",
-    "boilerplate"
+    "boilerplate",
+    "scaffolder"
   ],
   "author": "",
   "license": "MIT",
