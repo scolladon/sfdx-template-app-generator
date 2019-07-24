@@ -10,3 +10,4 @@
   safecrlf = warn
   compression = 9
   whitespace = trailing-space,space-before-tab,tab-in-indent,tabwidth=4
+  quotepath = off 
